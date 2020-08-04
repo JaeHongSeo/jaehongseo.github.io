@@ -141,6 +141,10 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
+# toc
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
 
 # Reading Files
 include:
@@ -220,7 +224,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  - jekyll-archives 
+  - jekyll-archives
 
 # mimic GitHub Pages with --safe
 whitelist:
