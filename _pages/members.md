@@ -12,11 +12,12 @@ modified: 2016-06-01T15:14:43-04:00
 ---
 ## Professor
 **Jae Hong Seo**
-<figure>
+<!-- <figure>
 	<img src="/images/jaehongseo.jpg" width="100" alt="">
 	<!-- <figcaption>Jae Hong Seo.</figcaption> -->
 </figure>
-
+ -->
+ 
 Jae Hong is the leader of the C&A Lab. Two of his main role are to manage research projects and to encourage, support, and collaborate with the other members of the C&A Lab.
 
 ---
