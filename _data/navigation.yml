@@ -10,11 +10,12 @@
 #   #   url: /collection-archive/
 #   # - title: "Sitemap"
 #   #   url: /sitemap/
-- title: Member
-  url: /member/
-- title: Research
-  url: /research/
-- title: Publications
-  url: /publications/
-- title: Project
-  url: /project/
+main:
+  - title: Member
+    url: /member/
+  - title: Research
+    url: /research/
+  - title: Publications
+    url: /publications/
+  - title: Project
+    url: /project/
