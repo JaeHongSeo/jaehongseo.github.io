@@ -15,6 +15,7 @@
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
+# layout                   : splash
 locale                   : "en-US"
 title                    : "Cryptology and Algorithm Laboratory"
 title_separator          : "-"
@@ -274,8 +275,8 @@ defaults:
       type: posts
     values:
       layout: splash
-      author_profile: true
-      read_time: true
+      author_profile: false
+      read_time: false
       comments: # true
-      share: true
-      related: true
+      share: false
+      related: false
