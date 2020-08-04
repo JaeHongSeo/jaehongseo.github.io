@@ -1,6 +1,6 @@
 ---
-permalink: /members/
-layout: posts
+permalink: /member/
+layout: single
 title: Member
 description: "Member of C&A Lab."
 image:

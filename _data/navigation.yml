@@ -12,10 +12,10 @@
 #   #   url: /sitemap/
 main:
   - title: Member
-    url: /members/
+    url: /member/
   - title: Research
     url: /research/
-  - title: Publications
-    url: /publications/
+  - title: Publication
+    url: /publication/
   - title: Project
-    url: /projects/
+    url: /project/

@@ -1,8 +1,8 @@
 ---
-permalink: /projects/
-layout: posts
+permalink: /project/
+layout: single
 title: Project
-description: "Project."
+description: "Project"
 image:
   feature: abstract-11.jpg
   credit: dargadgetz

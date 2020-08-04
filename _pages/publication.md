@@ -1,7 +1,7 @@
 ---
-permalink: /publications/
-layout: posts
-title: Publications
+permalink: /publication/
+layout: single
+title: Publication
 description: "Publications of C&A Lab."
 image:
   feature: abstract-11.jpg
