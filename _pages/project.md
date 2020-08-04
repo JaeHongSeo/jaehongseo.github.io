@@ -1,5 +1,6 @@
 ---
-layout: page
+permalink: /projects/
+layout: single
 title: Project
 description: "Project."
 <!-- image:

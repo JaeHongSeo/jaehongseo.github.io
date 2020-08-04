@@ -1,5 +1,6 @@
 ---
-layout: page
+permalink: /members/
+layout: single
 title: Member
 description: "Member of C&A Lab."
 image:

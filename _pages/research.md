@@ -1,5 +1,6 @@
 ---
-layout: page
+permalink: /research/
+layout: single
 title: Research
 description: "Explain research topics."
 image:

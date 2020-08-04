@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Member
-description: "Member of C&A Lab."
+permalink: /publications/
+layout: single
+title: Publications
+description: "Publications of C&A Lab."
 image:
   feature: abstract-11.jpg
   credit: dargadgetz
