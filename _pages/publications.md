@@ -1,6 +1,6 @@
 ---
 permalink: /publications/
-layout: single
+layout: posts
 title: Publications
 description: "Publications of C&A Lab."
 image:

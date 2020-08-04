@@ -1,6 +1,6 @@
 ---
 permalink: /projects/
-layout: single
+layout: posts
 title: Project
 description: "Project."
 image:

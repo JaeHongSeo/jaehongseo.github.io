@@ -1,6 +1,6 @@
 ---
 permalink: /research/
-layout: single
+layout: posts
 title: Research
 description: "Explain research topics."
 image:
