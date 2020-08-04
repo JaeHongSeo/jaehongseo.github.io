@@ -13,7 +13,7 @@ modified: 2016-06-01T15:14:43-04:00
 ## Professor
 **Jae Hong Seo**
 <figure>
-	<img src="/images/jaehongseo.jpg" width="200" alt="">
+	<img src="/images/jaehongseo.jpg" width="100" alt="">
 	<!-- <figcaption>Jae Hong Seo.</figcaption> -->
 </figure>
 
